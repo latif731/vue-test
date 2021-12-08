@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop",
+        "description": "Cillum culpa velit cillum mollit quis irure ullamco dolore amet qui consectetur deserunt. Adipisicing cillum laboris consequat laborum. Labore nisi commodo dolore exercitation proident do. Veniam officia tempor eu consequat id reprehenderit mollit aliqua nulla velit dolore consectetur nostrud ipsum. Irure laborum labore ullamco mollit tempor culpa dolor in culpa.",
+        "price": 13000000,
+        "images": ["/img/laptop-1.png", "/img/laptop-2.jpg"]
+    },
+    {
+        "id": 2,
+        "title": "Charger",
+        "description": "Non deserunt sunt reprehenderit laborum amet qui elit occaecat do occaecat duis ad magna. Laboris est ad amet veniam Lorem anim do. Id eu Lorem reprehenderit ipsum. Velit incididunt et irure veniam anim irure elit veniam eu ex labore nulla. Duis amet ea aute aute consectetur id. Commodo nulla aute esse voluptate occaecat fugiat exercitation laboris. Voluptate consequat commodo occaecat nulla culpa exercitation ut magna ut ad elit tempor consectetur velit.",
+        "price": 50000,
+        "images": ["/img/charger-1.jpg", "/img/charger-2.jpg"]
+    },
+    {
+        "id": 3,
+        "title": "Monitor",
+        "description": "Ullamco non duis mollit duis consectetur ad nostrud aliqua eu. Deserunt ullamco ullamco dolor cupidatat. Est ex et enim aliqua mollit ex esse minim aute deserunt labore nulla cupidatat.",
+        "price": 1200000,
+        "images": ["/img/monitor-1.jpg", "/img/monitor-2.jpg"]
+    },
+    {
+        "id": 4,
+        "title": "Power Bank",
+        "description":  "Enim sit ex amet aute ea nostrud adipisicing dolore aliquip quis sint ea aliquip exercitation. Labore esse ea aliqua qui Lorem non nulla. Quis officia in quis magna in adipisicing amet incididunt eiusmod. Ut magna ipsum sit minim mollit eu Lorem enim culpa. Ipsum laborum eu sunt ex aliqua mollit esse ipsum irure aute ut cillum. In consequat adipisicing in irure adipisicing do minim. Id tempor cupidatat elit excepteur.",
+        "price": 254000,
+        "images": ["/img/power-bank-1.jpg", "/img/power-bank-2.jpg"]
+    }
+]
